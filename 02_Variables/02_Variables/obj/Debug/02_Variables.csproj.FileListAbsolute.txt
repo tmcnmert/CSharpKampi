@@ -1,0 +1,7 @@
+C:\Users\mert\source\repos\02_Variables\02_Variables\bin\Debug\02_Variables.exe.config
+C:\Users\mert\source\repos\02_Variables\02_Variables\bin\Debug\02_Variables.exe
+C:\Users\mert\source\repos\02_Variables\02_Variables\bin\Debug\02_Variables.pdb
+C:\Users\mert\source\repos\02_Variables\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+C:\Users\mert\source\repos\02_Variables\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\mert\source\repos\02_Variables\02_Variables\obj\Debug\02_Variables.exe
+C:\Users\mert\source\repos\02_Variables\02_Variables\obj\Debug\02_Variables.pdb
